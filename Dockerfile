@@ -1,3 +1,5 @@
+# Author: Charles Suresh
+
 FROM continuumio/miniconda3
 
 RUN conda install --quiet --yes \
